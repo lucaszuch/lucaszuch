@@ -10,4 +10,4 @@ Senior Software Developer @ Deloitte
 - Portuguese :brazil:
 - English :uk:
 - Italian :it:
-- Nederlands :be:
+- Nederlands 🇧🇪
