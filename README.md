@@ -7,7 +7,7 @@ Senior Software Developer @ Deloitte
 - [Email](zuchinalli@gmail.com)
 
 ## :currency_exchange: Languages:
-- Portuguese :brazil:
+- Português :brazil:
 - English :uk:
-- Italian :it:
+- Italiano :it:
 - Nederlands 🇧🇪
